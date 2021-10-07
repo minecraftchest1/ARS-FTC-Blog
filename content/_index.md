@@ -7,3 +7,5 @@ Edit `/content/_index.md` to change what appears here. Delete `/content/_index.m
 if you don't want any content here.
 
 Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+
+hi
