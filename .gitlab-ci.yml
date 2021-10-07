@@ -19,8 +19,8 @@ pages:
   artifacts:
     paths:
     - public
-  environment:
-    name: Pipeline
-    url: "https://$CI_PROJECT_NAMESPACE.gitlab.io/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html"
+  #environment:
+    #name: Pipeline
+    #url: "https://$CI_PROJECT_NAMESPACE.gitlab.io/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html"
   only:
   - master
