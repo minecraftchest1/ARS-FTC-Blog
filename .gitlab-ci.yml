@@ -7,11 +7,11 @@ variables:
 test:
   script:
   - hugo
-  #except:
-  #- master
-  environment:
-    name: PR
-    url: "https://$CI_PROJECT_NAMESPACE.gitlab.io/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html"
+  except:
+  - master
+  #environment:
+    #name: PR
+    #url: "https://$CI_PROJECT_NAMESPACE.gitlab.io/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html"
 
 pages:
   script:
@@ -19,5 +19,8 @@ pages:
   artifacts:
     paths:
     - public
+  environment:
+    name: Pipeline
+    url: "https://$CI_PROJECT_NAMESPACE.gitlab.io/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html"
   only:
   - master
