@@ -1,5 +1,5 @@
 ## Front Page Content
 
-this is the site for ars middle ftc team.
+This is the site for Athens Renaissance Middle School FTC club.
 
-this page is still a work in progres.
+This page is still a work in progres.
