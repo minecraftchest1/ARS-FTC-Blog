@@ -2,7 +2,7 @@ baseurl = "https://ars-ftc.gitlab.io/blog/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Beautiful Hugo"
+title = "ars midle ftc"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Hugo Blog Template for GitLab Pages"
+  subtitle = "The site form ars middle ftc team"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
