@@ -1,4 +1,4 @@
-## Front Page Content
+## Main Page
 
 This is the site for Athens Renaissance Middle School FTC club.
 
