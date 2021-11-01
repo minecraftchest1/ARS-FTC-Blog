@@ -2,7 +2,7 @@ baseurl = "https://ars-ftc.gitlab.io/blog/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "ars midle ftc"
+title = "arms ftc"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "The site form ars middle ftc team"
+  subtitle = "The site form arms ftc team"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -56,7 +56,7 @@ pygmentCodeFences = true
 
 
 [[menu.main]]
-    name = "Blog"
+    name = "Main Page"
     url = ""
     weight = 1
 
