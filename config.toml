@@ -3,7 +3,8 @@ baseurl = "https://ars-ftc.pages.dev/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-Title = "ARMS FTC"
+title = "ARMS FTC"
+canonifyurls  = true
 
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
