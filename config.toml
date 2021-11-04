@@ -1,9 +1,9 @@
-baseurl = "https://ars-ftc.gitlab.io/blog/"
+#baseurl = "https://ars-ftc.gitlab.io/blog/"
+baseurl = "https://ars-ftc.pages.dev/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "arms ftc"
-canonifyurls  = true
+Title = "ARMS FTC"
 
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
