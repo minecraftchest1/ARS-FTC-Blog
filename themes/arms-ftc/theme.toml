@@ -1,0 +1,22 @@
+name = "ARMS FTC"
+license = "MIT"
+licenselink = "https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/LICENSE"
+description = "A fork of Beautiful Hugo theme with ARMS FTC specific changes."
+tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
+features = ["blog", "themes", "disqus", "minimal", "responsive"]
+min_version = 0.17
+
+[author]
+    name = "ARMS FTC"
+    homepage = "http://ars-ftc.gitlab.io/blog/
+
+[original]
+    name = "halogenica"
+    homepage = "http://halogenica.net"
+
+# If Porting existing theme
+#[original]
+#    author =  "dattali"
+#    homepage = "http://deanattali.com/beautiful-jekyll/"
+#    repo = "https://github.com/daattali/beautiful-jekyll"
+
