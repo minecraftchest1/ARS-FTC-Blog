@@ -1,4 +1,4 @@
-baseurl = "https://minecraftchest1.gitlab.io/ars-ftc-blog/"
+baseurl = "https://ars-ftc.gitlab.io/ars-ftc-blog/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
