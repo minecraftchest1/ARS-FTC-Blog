@@ -6,7 +6,7 @@ title = "ARMS FTC"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
-theme = "beautifulhugo"
+theme = "arms-ftc"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
