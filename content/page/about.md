@@ -4,4 +4,6 @@ subtitle: About the FTC team
 comments: false
 ---
 
-The team has been aroud secs i think the secend maby first turm.
+This is the offical site for the 2021-2022 school year ARMS FTC team.
+
+The FTC team is a competitive robotics team.
