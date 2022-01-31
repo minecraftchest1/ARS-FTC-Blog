@@ -16,7 +16,7 @@ pygmentCodeFences = true
 [Params]
   subtitle = "The site form arms ftc team"
   logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  favicon = "img/BFBE221B-762A-4F0C-8CFA-92EFD80EF0B0.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
